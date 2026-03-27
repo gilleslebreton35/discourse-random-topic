@@ -1,0 +1,9 @@
+fr:
+  js:
+    bgg:
+      modal_title: "Recherche Jeu sur BoardGameGeek"
+      search_placeholder: "Nom du jeu..."
+      search_button: "Chercher"
+      insert_button: "Insérer"
+      no_results: "Aucun jeu trouvé."
+    loading: "Chargement..."

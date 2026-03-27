@@ -1,1 +1,1 @@
-# discourse-random-topic
+# discourse-search-bgg

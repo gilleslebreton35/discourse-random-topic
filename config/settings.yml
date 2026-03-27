@@ -1,0 +1,8 @@
+plugins:
+  random_topic_enabled:
+    default: true
+    client: true
+  random_game_category_id:
+    # Remplace par l'ID de ta catégorie par défaut
+    default: 1
+    client: true

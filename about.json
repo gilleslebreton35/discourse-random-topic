@@ -1,0 +1,15 @@
+{
+  "name": "discourse-random-topic",
+  "about": "Ajoute un bouton magique pour tirer au sort un sujet dans une catégorie spécifique.",
+  "version": "0.3",
+  "authors": "TonNom",
+  "url": "https://github.com/ton-profil/discourse-random-topic",
+  "is_theme_component": false,
+  "minimum_discourse_version": "3.2.0",
+  "assets": {
+    "js": [
+      "assets/javascripts/discourse/api-initializers/init-random-button.js",
+      "assets/javascripts/discourse/components/random-game-launcher.gjs"
+    ]
+  }
+}

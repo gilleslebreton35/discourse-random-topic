@@ -1,0 +1,23 @@
+.bgg-results-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+  max-height: 300px;
+  overflow-y: auto;
+
+  li {
+    margin-bottom: 5px;
+    
+    .bgg-result-item {
+      width: 100%;
+      text-align: left;
+      justify-content: flex-start;
+      
+      .year {
+        opacity: 0.6;
+        font-size: 0.9em;
+        margin-left: 5px;
+      }
+    }
+  }
+}
